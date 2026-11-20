@@ -34,7 +34,7 @@ Cybersecurity awareness and educational learning.
 
 KARTIKEY UPADHYAY
 
-CSE -7 
+CSE -7
 
 ADMISSION NUMBER 2026B01010304
 
@@ -42,5 +42,5 @@ EMAIL.ID : kartikey.26b01010304@abes.ac.in
 
 
 
-B.Tech Computer Science and Engineering Student				
+B.Tech CSE Student.
 
